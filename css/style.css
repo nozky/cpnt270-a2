@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Imbue:wght@300;400&family=Libre+Baskerville:ital@1&display=swap');
+*{
+  line-height: 1.5rem;
+}
+
+h1{
+  font-family: 'Imbue' , sans-serif;
+}

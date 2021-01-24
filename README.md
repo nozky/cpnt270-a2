@@ -1,4 +1,4 @@
-# CPNT 260 - Open Asset Hunt
+# CPNT 270 - Open Asset Hunt
 Owner: Norvillie Villaruel
 
 ---

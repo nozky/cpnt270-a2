@@ -2,7 +2,7 @@
 Owner: Norvillie Villaruel
 
 ---
-###**Attributions**
+### **Attributions**
 _Credit to:_
 
 - Photo by [Ramon Kagie](https://unsplash.com/@ramonkagie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/boracay?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
